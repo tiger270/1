@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
-var prefix = "$";
+var prefix = "!";
 var adminprefix = 'Y2'
 console.log(`Your Bot Is Online `);
 
